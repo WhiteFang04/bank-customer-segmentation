@@ -34,3 +34,5 @@ Open the notebook in Jupyter or Google Colab and run all cells.
 
 ### 📌 [View Notebook](link-to-your-notebook)
 
+### 🏷️ Tags
+`machine-learning` `unsupervised-learning` `clustering` `kmeans` `data-cleaning` `pca` `customer-segmentation`
